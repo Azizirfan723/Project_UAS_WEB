@@ -121,12 +121,12 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="https://cdn.discordapp.com/attachments/851670730494967838/1046253254113251398/rahman.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
                 <div class="social">
-                  <a href="https://www.tiktok.com/@zuad_dnf"><i class="bi bi-tiktok"></i></a>
-                  <a href="https://web.facebook.com/profile.php?id=100008875630344"><i class="bi bi-facebook"></i></a>
-                  <a href="https://instagram.com/rahman.uz16?igshid=NDk5N2NlZjQ="><i class="bi bi-instagram"></i></a>
-                  <a href="https://www.linkedin.com/in/nurrahman-firdaus"><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-tiktok"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -139,11 +139,12 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="https://cdn.discordapp.com/attachments/959134758766526464/1045752720214196284/facebook_1669397255104_7001959584674899006.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
                 <div class="social">
-                  <a href="https://web.facebook.com/profile.php?id=100004989375174"><i class="bi bi-facebook"></i></a>
-                  <a href="https://instagram.com/irfan.adianto?igshid=NDk5N2NlZjQ="><i class="bi bi-instagram"></i></a>
-                  <a href="https://www.linkedin.com/in/irfan-aziz-adianto-609717224"><i class="bi bi-linkedin"></i></a>
+                  <a href=""><i class="bi bi-tiktok"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -156,10 +157,12 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="https://cdn.discordapp.com/attachments/851670730494967838/1046253254461362227/angga.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
                 <div class="social">
-                  <a href="https://www.facebook.com/anggaalfian.bayu"><i class="bi bi-facebook"></i></a>
-                  <a href="https://www.instagram.com/aangga.abs/"><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-tiktok"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
                  
                 </div>
               </div>
@@ -175,9 +178,10 @@
               <div class="member-img">
                 <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
                 <div class="social">
-                  
-                  <a href="https://www.instagram.com/kkaaaapw/"><i class="bi bi-instagram"></i></a>
-                  
+                  <a href=""><i class="bi bi-tiktok"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
@@ -203,23 +207,23 @@
 
         <div class="row">
           <div class="col-lg-3">
-            <img src="https://cdn.discordapp.com/attachments/985820015523692544/1045749762114199582/image.png" class="img-fluid" alt="">
+            <img src="https://cdn.discordapp.com/attachments/959134758766526464/1090613407356559370/image.png" class="img-fluid" alt="">
           </div>
           
           <div class="col-lg-9 pt-5 pt-lg-2">
-            <h3>Riska Dami Ristanto, S.Pd., M.Pd.</h3>
-            <h4>NIP : 199207112019031012</h4>
+            <h3>NUR IKSAN, S.T., M.Kom. </h3>
+            <h4>NIP : 198303072012121004</h4>
             <p style="text-align: justify ;">
-            Riska Dami Ristanto, S.Pd., M.Pd. merupakan Dosen PNS di Universitas Negeri Semarang.
-            Saat ini beliau Tidak sedang studi Lanjut. Beliau bergabung di Universitas Negeri Semarang sebagai Dosen PNS sejak 01 Maret 2019. 
-            Pendidikan terakhir yang di tempuh adalah pada jenjang Strata 2 (S2) - ( Lulus 01 Februari 2018 ), dan lulus pada 01 Februari 2018.
+            NUR IKSAN, S.T., M.Kom.  merupakan Dosen PNS di Universitas Negeri Semarang.
+            Saat ini beliau Tidak sedang studi Lanjut. Beliau bergabung di Universitas Negeri Semarang sebagai Dosen PNS sejak 01 Desember 2012. 
+            Pendidikan terakhir yang di tempuh adalah pada jenjang Strata 2 (S2) - ( Lulus 07 April 2010 ), dan lulus pada 07 April 2010.
             </p>
 
             <p style="text-align: justify ;">
             Sebagai seorang Dosen PNS dengan jabatan Asisten Ahli (FT- Teknik Elektro- Pendidikan Teknik Informatika dan Koputer),
-            beliau mengampu beberapa mata kuliah pokok Pemrograman Web, Pengantar Teknologi Informasi, Media Pembelajaran, Evaluasi Pembelajaran.
-            Kunjungi profil google scholar beliau melalui link berikut <a href="https://scholar.google.co.id/citations?user=Riska Dami Ristanto">Riska Dami Ristanto </a>
-            Atau jika membutuhlan beberapa pertanyaan, silahkan hubungi saya melalui email <a href="mailto:rdristanto@mail.unnes.ac.id">rdristanto@mail.unnes.ac.id</a>.
+            beliau mengampu beberapa mata kuliah pokok Sistem Basis Data, Logika Pemrograman, Data Mining, Pemrograman 1, Teori Informasi dan Penyandian, Struktur Data.
+            Kunjungi profil google scholar beliau melalui link berikut <a href="https://scholar.google.co.id/citations?user=iXj1bhYAAAAJ">Nur Iksan</a>
+            Atau jika membutuhlan beberapa pertanyaan, silahkan hubungi saya melalui email <a href="nur.iksan@mail.unnes.ac.id">nur.iksan@mail.unnes.ac.id</a>.
             </p>
 
             <p style="text-align: justify ;">
@@ -232,18 +236,19 @@
 
 
           <div class="col-lg-9 pt-5 pt-lg-2">
-            <br><br><h3>Febry Putra Rochim, S.T., M.Eng.</h3>
-            <h4>NIP : 199202282022031011</h4>
+            <br><br><h3>PUTRI KHOIRIN NASHIROH, M.Pd.</h3>
+            <h4>NIP : 199009102018032001</h4>
             <p style="text-align: justify ;">
-            Febry Putra Rochim, S.T., M.Eng. merupakan Dosen PNS di Universitas Negeri Semarang.
+            PUTRI KHOIRIN NASHIROH, M.Pd. merupakan Dosen PNS di Universitas Negeri Semarang.
             Saat ini beliau Tidak sedang studi Lanjut. Beliau bergabung di Universitas Negeri Semarang sebagai Dosen PNS sejak 2022. 
-            Pendidikan terakhir yang di tempuh adalah pada jenjang Strata 2 (S2).
+            Pendidikan terakhir yang di tempuh adalah pada jenjang Strata 2 (S2) - ( Lulus 14 Juli 2017 ), dan lulus pada 14 Juli 2017.
             </p>
 
             <p style="text-align: justify ;">
             Sebagai seorang Dosen PNS dengan jabatan Asisten Ahli (FT- Teknik Elektro- Pendidikan Teknik Informatika dan Koputer),
-            beliau mengampu beberapa mata kuliah pokok Pemrograman Web, Organisasi dan Arsitektur Komputer.
-            Jika membutuhlan beberapa pertanyaan, silahkan hubungi saya melalui email <a href="mailto:febry.putra@mail.unnes.ac.id">febry.putra@mail.unnes.ac.id</a>.
+            beliau mengampu beberapa mata kuliah pokok Pengembangan Program Diklat.
+            Kunjungi profil google scholar beliau melalui link berikut <a href="https://scholar.google.co.id/citations?hl=en&user=PNnXr28AAAAJ">PUTRI KHOIRIN NASHIROH</a>
+            Jika membutuhlan beberapa pertanyaan, silahkan hubungi saya melalui email <a href="putrikhoirin@mail.unnes.ac.id">putrikhoirin@mail.unnes.ac.id</a>.
             </p>
 
             <p style="text-align: justify ;">
@@ -255,7 +260,7 @@
           </div>
 
           <div class="col-lg-3">
-            <br><img src="https://cdn.discordapp.com/attachments/985820015523692544/1045749491174756415/image.png" class="img-fluid" alt="">
+            <br><img src="https://cdn.discordapp.com/attachments/959134758766526464/1090613454974492742/image.png" class="img-fluid" alt="">
           </div>
 
         </div>

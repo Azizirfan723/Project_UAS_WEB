@@ -16,6 +16,14 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
+-- Current Database: `uas_aple`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `uas_aple` /*!40100 DEFAULT CHARACTER SET utf8 */;
+
+USE `uas_aple`;
+
+--
 -- Table structure for table `akun`
 --
 
@@ -111,4 +119,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-03-29 11:28:19
+-- Dump completed on 2023-03-31 12:46:38
