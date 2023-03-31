@@ -52,7 +52,7 @@ if (isset($search)) {
       <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="index.php">Home</a></li>
         <li class="breadcrumb-item">Tables</li>
-        <li class="breadcrumb-item active">Produk Selesai</li>
+        <li class="breadcrumb-item active">Akun Karyawan</li>
       </ol>
     </nav>
     <div class="search-bar">
